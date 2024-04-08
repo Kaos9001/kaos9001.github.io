@@ -4,5 +4,6 @@ title: About
 
 ---
 
-# Some info 
-...about how cool you are ;)
+# About me
+Master's student in Computer Science at the University of São Paulo
+Bachelor's degree in Molecular Sciences at the University of São Paulo
