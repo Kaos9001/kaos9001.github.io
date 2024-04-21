@@ -10,9 +10,8 @@ url: http://kaos9001.github.io
 # For a project page here should be a project name. Otherwise (for user's/organization's page leave it empty)
 baseurl: ''
 
-author: Pavel Makhov
-copyright: 2015-2018
-
+author: Gabriel Schwartz
+copyright: 2024-
 share:
   facebook: false
   twitter: false
